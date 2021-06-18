@@ -6,5 +6,5 @@
 2) DOWN: down_arrow 
 3) Right: right_arrow 
 4) LEFT: left_arrow 
-5) ESC to quit the gameOver
+5) ESC to quit the game
 
