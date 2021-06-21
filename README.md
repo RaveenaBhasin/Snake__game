@@ -8,3 +8,5 @@
 4) LEFT: left_arrow 
 5) ESC to quit the game
 
+![Screenshot](Screenshot(2406).png)
+![Screenshot](Screenshot(2407).png)
